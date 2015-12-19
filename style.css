@@ -1,0 +1,30 @@
+.container {
+	border: 10px solid #f00;
+	height: 100vh;
+	background: url(http://cdn2.ettoday.net/images/1363/1363362.jpg);
+	background-position: center;
+	background-size: cover;
+	margin-bottom: 50px;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-item: center;
+}
+h1 {
+	color: 	#fff;
+	font-size: 28px;
+	font-weight: 600;
+}
+h3{
+	color: #fff;
+	margin-top: 15px;
+}
+article {
+	max-width: 600px;
+	margin: 0 auto;
+}
+p {
+	padding-bottom: 20px;
+	line-height: 1.5em;
+}
